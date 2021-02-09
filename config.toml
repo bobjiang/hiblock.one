@@ -138,6 +138,10 @@ disableHugoGeneratorInject = false
     url  = "https://twitter.com/HiBlock_Net"
 
   [[params.social]]
+    name = "telegram"
+    url  = "https://t.me/hiblock"
+
+  [[params.social]]
     name = "medium"
     url  = "https://medium.com/hiblock"    
     
