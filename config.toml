@@ -139,7 +139,7 @@ disableHugoGeneratorInject = false
 
   [[params.social]]
     name = "telegram"
-    url  = "https://t.me/hiblock"
+    url  = "https://t.me/bobjiang123"
 
   [[params.social]]
     name = "medium"
