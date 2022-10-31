@@ -17,4 +17,7 @@ Our business include (but not limited)
 
 email to hi@hiblock.one
 
+Follow wechat official
+![hiblock qr](/images/hiblock-qr.jpeg)
+
 ![hiblock logo](/images/hiblock-logo.png)
